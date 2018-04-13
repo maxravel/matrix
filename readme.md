@@ -3,14 +3,14 @@
     
 This is mother repository for my progress summary.  
 Projects:  
-- mnemomed - medical test project, main project;  
+- *1 mnemomed - medical test project, main project;  
 - bills - calculator of bills;  
 - simpleCounter - time counter;  
 - bootIndependent - landing page No.1;  
-- portfolioPage - landing page No.2;  
+- *2 portfolioPage - landing page No.2;  
 - ravelEnter - landing page No.3;  
 - flexboxLayout - example flexbox layout;  
-- taskApp - to do list app;  
+- *3 taskApp - to do list app;  
 - imageGallery - different types of galleries;  
   
 Sketches:  
@@ -27,8 +27,17 @@ Plans for April:
 - REACT;  
 - Mnemomed sessionStorage;  
 - Mnemomed other upradges, Mnemomed - main project;  
-- One more Landing Page;  
+- One more Landing Page - personal portfolio;  
 - Form validation;  
 - Exploring DOM and AJAX more;  
 - jQuery repo upradges;  
 - explore materialize css;  
+- algorithms;  
+- JS exercises;  
+- making strict plans;  
+  
+Sources:  
+- Net Ninja;  
+- Traversy Media;  
+- SOLO Learn;  
+- Code Wars;  
