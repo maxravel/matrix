@@ -1,6 +1,6 @@
-#matrix
+# matrix
   
-    
+  
 This is mother repository for my progress summary.  
 Projects:  
 - *1 mnemomed - medical test project, main project;  
@@ -19,25 +19,28 @@ Sketches:
 - cssFlexbox - example flexbox usage;  
 - GITsketches - GIT usage formulas;  
 - cssGrid - example grid usage;  
-- AJAXsketches - examples of AJAX and JSON;  
+- AJAXsketches - examples of AJAX, JSON, fetch;  
   
-Plans for April: 
+Plans for May: 
 - revision of all repositories;  
 - CSS Grid;  
-- REACT;  
-- Mnemomed sessionStorage;  
-- Mnemomed other upradges, Mnemomed - main project;  
+- REACT/VUE;  
+- NODE.JS;  
+- Mnemomed upradges, Mnemomed - main project;  
 - One more Landing Page - personal portfolio;  
-- Form validation;  
+- Form validation - portfolioPage;  
 - Exploring DOM and AJAX more;  
 - jQuery repo upradges;  
 - explore materialize css;  
 - algorithms;  
 - JS exercises;  
 - making strict plans;  
+- Ebbinghaus curve app in mnemomed;  
   
 Sources:  
 - Net Ninja;  
 - Traversy Media;  
 - SOLO Learn;  
 - Code Wars;  
+- kurs.js;  
+- algorithm book;  
