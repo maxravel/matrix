@@ -10,8 +10,9 @@ Projects:
 - *2 portfolioPage - landing page No.2;  
 - ravelEnter - landing page No.3;  
 - flexboxLayout - example flexbox layout;  
-- *3 taskApp - to do list app;  
+- taskApp - to do list app;  
 - imageGallery - different types of galleries;  
+- *3 JSgames - simple games site;  
   
 Sketches:  
 - DOMsketches - JS DOM manipulations;  
@@ -20,8 +21,9 @@ Sketches:
 - GITsketches - GIT usage formulas;  
 - cssGrid - example grid usage;  
 - AJAXsketches - examples of AJAX, JSON, fetch;  
+- PYTHONsketches - python fundamentals;  
   
-Plans for May: 
+Plans for June: 
 - revision of all repositories;  
 - CSS Grid;  
 - REACT/VUE;  
@@ -35,7 +37,7 @@ Plans for May:
 - algorithms;  
 - JS exercises;  
 - making strict plans;  
-- Ebbinghaus curve app in mnemomed;  
+- Python fundamentals;  
   
 Sources:  
 - Net Ninja;  
@@ -44,3 +46,4 @@ Sources:
 - Code Wars;  
 - kurs.js;  
 - algorithm book;  
+- Python courses;  
