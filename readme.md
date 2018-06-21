@@ -25,9 +25,10 @@ Sketches:
   
 Plans for June: 
 - revision of all repositories;  
-- CSS Grid;  
+- CSS Grid; done  
 - REACT/VUE;  
-- NODE.JS;  
+- NODE.JS; 
+- GET/POST METHODS;   
 - Mnemomed upradges, Mnemomed - main project;  
 - One more Landing Page - personal portfolio;  
 - Form validation - portfolioPage;  
@@ -36,8 +37,8 @@ Plans for June:
 - explore materialize css;  
 - algorithms;  
 - JS exercises;  
-- making strict plans;  
-- Python fundamentals;  
+- MAKING STRICT PLANS;  
+- Python fundamentals; done  
   
 Sources:  
 - Net Ninja;  
