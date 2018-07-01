@@ -13,7 +13,7 @@ Projects:
 - taskApp - to do list app;  
 - imageGallery - different types of galleries;  
 - *3 JSgames - simple games site;  
-  
+    
 Sketches:  
 - DOMsketches - JS DOM manipulations;  
 - JSsketches - basics of JavaScript;   
@@ -22,24 +22,23 @@ Sketches:
 - cssGrid - example grid usage;  
 - AJAXsketches - examples of AJAX, JSON, fetch;  
 - PYTHONsketches - python fundamentals;  
-  
-Plans for June: 
-- revision of all repositories;  
-- CSS Grid; done  
+    
+Plans for July: 
+- MUST: REVISION OF ALL REPOS;   
 - REACT/VUE;  
 - NODE.JS; 
 - GET/POST METHODS;   
-- Mnemomed upradges, Mnemomed - main project;  
+- Mnemomed upradges, Mnemomed - main project, mnemomed backend;  
 - One more Landing Page - personal portfolio;  
 - Form validation - portfolioPage;  
 - Exploring DOM and AJAX more;  
 - jQuery repo upradges;  
 - explore materialize css;  
-- algorithms;  
+- algorithms in python and js;  
 - JS exercises;  
 - MAKING STRICT PLANS;  
-- Python fundamentals; done  
-  
+- Python simple apps;  
+    
 Sources:  
 - Net Ninja;  
 - Traversy Media;  
