@@ -24,9 +24,9 @@ Sketches:
 - PYTHONsketches - python fundamentals;  
     
 Plans for July: 
-- MUST: REVISION OF ALL REPOS;   
+- STRATEGIC GOAL: BACK END - NODE.JS FOR MNEMOMED USSAGE;  
+- MUST TO DO: REVISION OF ALL REPOS;  
 - REACT/VUE;  
-- NODE.JS; 
 - GET/POST METHODS;   
 - Mnemomed upradges, Mnemomed - main project, mnemomed backend;  
 - One more Landing Page - personal portfolio;  
@@ -38,6 +38,7 @@ Plans for July:
 - JS exercises;  
 - MAKING STRICT PLANS;  
 - Python simple apps;  
+- MIN 2x POMODORO PER DAY;  
     
 Sources:  
 - Net Ninja;  
