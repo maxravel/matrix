@@ -23,9 +23,10 @@ Sketches:
 - AJAXsketches - examples of AJAX, JSON, fetch;  
 - PYTHONsketches - python fundamentals;  
     
-Plans for July: 
-- STRATEGIC GOAL: BACK END - NODE.JS FOR MNEMOMED USSAGE;  
-- MUST TO DO: REVISION OF ALL REPOS;  
+Plans for SEPTEMBER: 
+- MAIN TASK (AND ONLY ONE?): REVISION OF ALL REPOS;  
+
+<!-- - STRATEGIC GOAL: BACK END - NODE.JS FOR MNEMOMED USSAGE;   
 - REACT/VUE;  
 - GET/POST METHODS;   
 - Mnemomed upradges, Mnemomed - main project, mnemomed backend;  
@@ -38,7 +39,7 @@ Plans for July:
 - JS exercises;  
 - MAKING STRICT PLANS;  
 - Python simple apps;  
-- MIN 2x POMODORO PER DAY;  
+- MIN 2x POMODORO PER DAY;   -->
     
 Sources:  
 - Net Ninja;  
