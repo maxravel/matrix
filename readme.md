@@ -15,7 +15,7 @@ Projects:
 - *3 JSgames - simple games site;  
     
 Sketches:  
-- DOMsketches - JS DOM manipulations;  
+- pDOMsketches - JS DOM manipulations;  
 - JSsketches - basics of JavaScript;   
 - cssFlexbox - example flexbox usage;  
 - GITsketches - GIT usage formulas;  
@@ -23,9 +23,12 @@ Sketches:
 - AJAXsketches - examples of AJAX, JSON, fetch;  
 - PYTHONsketches - python fundamentals;  
     
-Plans for SEPTEMBER: 
-- MAIN TASK (AND ONLY ONE?): REVISION OF ALL REPOS;  
-
+Plans for OCTOBER: 
+- MAIN TASK: REVISION OF ALL REPOS;  
+- SECOND GOAL: FRAMEWORK AND DATABASE FOR MNEMOMED USSAGE;  
+- PYTHON REVISION AND UP;  
+  
+  
 <!-- - STRATEGIC GOAL: BACK END - NODE.JS FOR MNEMOMED USSAGE;   
 - REACT/VUE;  
 - GET/POST METHODS;   
