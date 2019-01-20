@@ -1,6 +1,5 @@
 # matrix
   
-  
 This is mother repository for my progress summary.  
 Projects:  
 - *1 mnemomed - medical test project, main project;  
@@ -23,12 +22,12 @@ Sketches:
 - AJAXsketches - examples of AJAX, JSON, fetch;  
 - PYTHONsketches - python fundamentals;  
     
-Plans for OCTOBER: 
-- MAIN TASK: REVISION OF ALL REPOS;  
-- SECOND GOAL: FRAMEWORK AND DATABASE FOR MNEMOMED USSAGE;  
-- PYTHON REVISION AND UP;  
-  
-  
+Plans for last week of January: 
+- MAIN TASK: REVISION OF MAIN 2018 REPOS;  
+- SECOND GOAL: FRAMEWORK AND DATABASE FOR MNEMOMED USSAGE - Node.JS;  
+- JS Machine Learning Course on udemy;    
+<!-- - PYTHON REVISION AND UP;   -->
+
 <!-- - STRATEGIC GOAL: BACK END - NODE.JS FOR MNEMOMED USSAGE;   
 - REACT/VUE;  
 - GET/POST METHODS;   
@@ -51,4 +50,6 @@ Sources:
 - Code Wars;  
 - kurs.js;  
 - algorithm book;  
-- Python courses;  
+- udemy JS machine learning course;  
+- udemy Python course;  
+- udemy Node.JS course;  
